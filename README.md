@@ -4,4 +4,7 @@ my name is adhiraj tomar
 first day of using github
 hi adhiraj how are you doing
 im good  what about you
-:wq!
+## development environment 
+
+make sure you have javascript isnalled in
+your system.
